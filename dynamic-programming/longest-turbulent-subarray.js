@@ -1,3 +1,7 @@
+/**
+ * @param {number[]} arr
+ * @return {number}
+ */
 const maxTurbulenceSize = (arr) => {
     
     // get the array length and duplicate the length
